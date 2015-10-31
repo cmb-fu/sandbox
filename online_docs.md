@@ -22,6 +22,8 @@ def myfunc(X):
 Here is an example MathJax inline rendering \( 1/x^{2} \) \\( 1/x^{2} \\), and here is a block rendering: 
 \\[ \frac{1}{n^{2}} \\]
 
+[README.md](README.md)
+
 Trying again, we can still use $y=x^2$ or $y=x^3$, or not?
 
 List:

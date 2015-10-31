@@ -1,2 +1,18 @@
-markdown: kramdown
-
+prose:
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: "Add Category"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Stack"
+              value: "stack"
+            - name: "Brief"
+              value: "brief"
+            - name: "Bugherd"
+              value: "bugherd"
+            - name: "Other"
+              value: "other"
+  markdown: kramdown
